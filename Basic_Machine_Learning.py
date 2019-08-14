@@ -7,10 +7,9 @@ import pandas as pd
 import numpy as np
 import sklearn
 from sklearn import linear_model
-
-# Comma separated file is separated by semicolons
 from Constants import Constants
 
+# Comma separated file is separated by semicolons
 data = pd.read_csv(Constants.filename, sep=Constants.separator)
 
 # Uncomment the below to print the CSV data.
