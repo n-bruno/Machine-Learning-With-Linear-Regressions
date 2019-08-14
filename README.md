@@ -7,4 +7,4 @@ This Python project demonstrates basic machine learning with linear regressions.
 Download the CSV dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
 
 ## License
-This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
