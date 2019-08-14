@@ -1,4 +1,4 @@
-# Github repo: n-bruno
+# Author: n-bruno
 # Created while watching Tech With Tim's tutorials: https://www.youtube.com/watch?v=45ryDIPHdGg
 # Dataset retrieved from https://archive.ics.uci.edu/ml/machine-learning-databases/00320/
 from builtins import len
