@@ -7,3 +7,5 @@ class Constants:
     training_sample_size = 0.10
     filename = "student-mat.csv"
     separator = ";"
+    pickle_dump = "studentgrades.pickle"
+    train = False
